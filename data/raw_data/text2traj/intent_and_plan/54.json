@@ -1,0 +1,43 @@
+{
+    "intention": "A fitness enthusiast who prioritizes protein-rich foods and dietary supplements. The customer arrives with a fixed list of purchases, focusing on meat, dairy, and grains while avoiding sugary and high-fat items. The customer prefers high-quality products and is not much concerned about discounts. The customer likes to buy fresh and unprocessed items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "meat": 5,
+        "dairy": 4,
+        "vegetable": 3,
+        "fruit": 2,
+        "seasoning": 1
+    },
+    "inclined_to_purchase": [
+        "Beef",
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Mozzarella Cheese",
+        "Organic Milk",
+        "Greek Yogurt",
+        "Low-fat Cottage Cheese",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Luxury Apples",
+        "Premium Mango",
+        "Salt"
+    ],
+    "show_interest": [
+        "Mixed Pork Cuts",
+        "Mixed Ground Meat",
+        "Mixed Ribs",
+        "Mixed Chicken Cuts",
+        "Parmesan Cheese",
+        "Probiotic Yogurt",
+        "Low-fat Milk",
+        "Tomatoes",
+        "Cucumbers",
+        "Organic Kiwi",
+        "Black Pepper",
+        "Garlic Powder"
+    ]
+}

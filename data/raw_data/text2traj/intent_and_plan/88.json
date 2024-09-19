@@ -1,0 +1,17 @@
+{
+    "intention": "Coffee lover, focusing on coffee beans and coffee-making supplies. The customer usually purchases different kinds of coffee beans, filters, and milk. The customer shops with a predetermined list, ensuring the customer has everything the customer needs to make their perfect cup of coffee. The customer prioritizes quality over price, often buying premium coffee beans.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 1,
+        "dairy": 1,
+        "drink": 3
+    },
+    "inclined_to_purchase": [
+        "Organic Milk",
+        "Discounted Coffee"
+    ],
+    "show_interest": [
+        "Luxury Butter"
+    ]
+}

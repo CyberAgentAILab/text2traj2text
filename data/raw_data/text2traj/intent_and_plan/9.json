@@ -1,0 +1,52 @@
+{
+    "intention": "A fitness enthusiast who focuses on high-protein, low-carb foods. The customer usually has a predetermined list of purchases, including meats, dairy, and vegetables. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 5,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 3,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 4,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Beef",
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Luxury Apples",
+        "Salt",
+        "Mozzarella Cheese",
+        "Organic Milk",
+        "Greek Yogurt",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Carrots"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Mixed Pork Cuts",
+        "Seasoned Turkey",
+        "Mixed Ground Meat",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Black Pepper",
+        "Garlic Powder",
+        "Luxury Butter",
+        "Parmesan Cheese",
+        "Tomatoes",
+        "Cucumbers",
+        "Potatoes"
+    ]
+}

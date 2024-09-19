@@ -1,0 +1,44 @@
+{
+    "intention": "A customer who enjoys grilling. The customer usually has a list of items to buy, which includes meats, vegetables, and grilling sauces. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "meat": 5,
+        "vegetable": 4,
+        "seasoning": 3,
+        "fruit": 1,
+        "drink": 2
+    },
+    "inclined_to_purchase": [
+        "Beef",
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Bacon",
+        "Premium Lamb Chops",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes",
+        "Salt",
+        "Black Pepper",
+        "Garlic Powder",
+        "Luxury Apples",
+        "Luxury Champagne",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Mixed Pork Cuts",
+        "Seasoned Turkey",
+        "Mixed Sausages",
+        "Seasoned Lamb Chops",
+        "Cucumbers",
+        "Potatoes",
+        "Onions",
+        "Onion Powder",
+        "Paprika",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "High-end Matcha Latte"
+    ]
+}

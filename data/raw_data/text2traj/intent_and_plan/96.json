@@ -1,0 +1,23 @@
+{
+    "intention": "Gift buyer, focusing on items to give as gifts. The customer usually purchases chocolates, wines, and gourmet items to give as gifts. The customer shops with a predetermined list, often looking for specific items that make good gifts. The customer prioritizes quality and presentation over price, often buying premium items that are packaged nicely. The customer does not usually cook a specific dish, focusing more on selecting items to give as gifts.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "alcohol": 2,
+        "snack": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Whiskey",
+        "Luxury Champagne",
+        "Luxury Chocolate",
+        "Gourmet Popcorn",
+        "Luxury Champagne"
+    ],
+    "show_interest": [
+        "Red Wine",
+        "Popcorn Maker",
+        "High-end Green Tea",
+        "High-end Matcha Latte"
+    ]
+}

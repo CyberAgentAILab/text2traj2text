@@ -1,0 +1,39 @@
+{
+    "intention": "Diet follower, focusing on items that fit their specific diet, like keto or paleo. The customer usually purchases items that fit their diet, like high-fat foods for a keto diet or unprocessed foods for a paleo diet. The customer shops with a predetermined list, ensuring the customer sticks to their diet. The customer prioritizes diet-compatibility over price, often buying specialty items that fit their diet. The customer enjoys cooking diet-specific meals, usually preparing keto-friendly or paleo-friendly meals.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "meat": 3,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 2,
+        "vegetable": 2,
+        "snack": 1
+    },
+    "inclined_to_purchase": [
+        "Premium Steak",
+        "Premium Bacon",
+        "Luxury Lamb",
+        "Luxury Apples",
+        "Salt",
+        "Luxury Butter",
+        "Mozzarella Cheese",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Mixed Nuts"
+    ],
+    "show_interest": [
+        "Beef",
+        "Seasoned Beef Strips",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Organic Milk",
+        "Luxury Broccoli",
+        "Trail Mix",
+        "Gourmet Popcorn"
+    ]
+}

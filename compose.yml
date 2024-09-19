@@ -1,0 +1,12 @@
+version: '3'
+services:
+  text2traj2text:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: text2traj2text
+    volumes:
+      - .:/app
+      - ./data:/app/data
+    command: tail -f /dev/null
+    container_name: text2traj2text

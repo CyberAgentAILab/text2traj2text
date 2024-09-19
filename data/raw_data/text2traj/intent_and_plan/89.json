@@ -1,0 +1,42 @@
+{
+    "intention": "A customer focusing on baby food and supplies. The customer usually purchases baby formula, diapers, and baby care products. The customer shops with a predetermined list, ensuring the customer has everything the customer needs for their baby. The customer prioritizes quality and safety over price, often buying premium baby products.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 5,
+        "dairy": 5,
+        "fruit": 2,
+        "vegetable": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Bath Towels",
+        "Paper Towels",
+        "Organic Milk",
+        "Luxury Butter",
+        "Luxury Yogurt",
+        "Probiotic Yogurt",
+        "Luxury Ice Cream",
+        "Luxury Apples",
+        "Premium Mango",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Air Freshener",
+        "Dish Towels",
+        "Sponges",
+        "Low-fat Milk",
+        "Greek Yogurt",
+        "Low-fat Cottage Cheese",
+        "Mixed Fruit Salad",
+        "Luxury Broccoli",
+        "Luxury Champagne",
+        "High-end Matcha Latte"
+    ]
+}

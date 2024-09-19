@@ -1,0 +1,50 @@
+{
+    "intention": "A customer with a health focus prioritizes organic and low-fat products, with a specific interest in fruits and vegetables over meats or seafood. The customer comes with a predetermined list, ensuring their dietary habits are strictly followed. The customer is willing to invest in high-quality products, showcasing a preference towards organic and fresh items.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 5,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Premium Mango",
+        "Salt",
+        "Organic Milk",
+        "Tomatoes",
+        "Cucumbers",
+        "Luxury Asparagus",
+        "Carrots",
+        "Luxury Mushrooms",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Mixed Berries",
+        "Mixed Fruit Salad",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Low-fat Milk",
+        "Probiotic Yogurt",
+        "Low-fat Cottage Cheese",
+        "Potatoes",
+        "Onions",
+        "Sweet Potatoes",
+        "Garlic",
+        "Mixed Fruit Smoothie",
+        "Mixed Berry Juice"
+    ]
+}

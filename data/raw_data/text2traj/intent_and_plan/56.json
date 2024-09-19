@@ -1,0 +1,52 @@
+{
+    "intention": "A customer who prefers affordable and easy-to-cook foods. The customer is likely to explore and decide while shopping, often opting for instant foods, frozen meals, and canned goods. The customer is attracted to discounts and special offers and is not much concerned about the quality. The customer usually buys a small number of items per visit.",
+    "num_item_to_by": 8,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 1,
+        "snack": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Discounted Chicken",
+        "Discount Apples",
+        "Salt",
+        "Discounted Yogurt",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Discounted Orange Juice"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Paper Towels",
+        "Dish Towels",
+        "Sponges",
+        "Discounted Ground Beef",
+        "Discounted Pork Chops",
+        "Discounted Chicken Drumsticks",
+        "Discounted Ground Chicken",
+        "Discount Oranges",
+        "Discounted Bananas",
+        "Discounted Grapes",
+        "Discounted Pineapple",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Discounted Chocolate Bar",
+        "Discounted Trail Mix",
+        "Discounted Coffee",
+        "Reasonable Lemonade",
+        "Reasonable Fruit Punch"
+    ]
+}

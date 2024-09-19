@@ -1,0 +1,44 @@
+{
+    "intention": "Ethnic food lover, focusing on specific cuisine items. The customer usually purchases spices, sauces, and ingredients specific to their desired cuisine, like Asian or Mexican food. The customer shops with a specific dish in mind, often deciding what to buy based on the recipe. The customer prioritizes authenticity over price, willing to pay a premium for authentic ingredients.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "seasoning": 3,
+        "meat": 2,
+        "vegetable": 2,
+        "fruit": 1,
+        "dairy": 1,
+        "seafood": 1
+    },
+    "inclined_to_purchase": [
+        "Curry Powder",
+        "Chili Powder",
+        "Garlic Powder",
+        "Luxury Lamb",
+        "Premium Steak",
+        "Luxury Asparagus",
+        "Mixed Stir-Fry Vegetables",
+        "Premium Mango",
+        "Parmesan Cheese",
+        "Mixed Sushi Platter"
+    ],
+    "show_interest": [
+        "Black Pepper",
+        "Onion Powder",
+        "Seasoned Beef Strips",
+        "Mixed Pork Cuts",
+        "Luxury Mushrooms",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Mozzarella Cheese",
+        "Luxury Butter",
+        "Organic Milk",
+        "Greek Yogurt",
+        "Luxury Ice Cream",
+        "Luxury Yogurt",
+        "Seasoned Tuna Steak",
+        "Seasoned Octopus",
+        "Luxury Sashimi Platter"
+    ]
+}

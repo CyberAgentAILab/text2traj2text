@@ -1,0 +1,46 @@
+{
+    "intention": "Pescatarian customer, preferring seafood over meat and poultry. The customer has a predetermined list of seafood, fruits, vegetables, and grains. The customer prioritizes quality over price and prefers organic and fresh items.",
+    "num_item_to_by": 13,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 0,
+        "meat": 0,
+        "fruit": 2,
+        "seasoning": 2,
+        "dairy": 1,
+        "seafood": 4,
+        "alcohol": 1,
+        "snack": 0,
+        "vegetable": 3,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Salt",
+        "Black Pepper",
+        "Organic Milk",
+        "Discounted Shrimp",
+        "Fresh Salmon",
+        "Fresh Cod",
+        "Bulked Shrimp",
+        "Luxury Champagne",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli"
+    ],
+    "show_interest": [
+        "Premium Mango",
+        "Garlic Powder",
+        "Onion Powder",
+        "Luxury Butter",
+        "Parmesan Cheese",
+        "Mixed Seafood Platter",
+        "Seasoned Tuna Steak",
+        "Fresh Tuna",
+        "Whiskey",
+        "Cognac",
+        "Tomatoes",
+        "Cucumbers"
+    ]
+}

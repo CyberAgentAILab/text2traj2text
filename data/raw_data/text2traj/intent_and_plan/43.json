@@ -1,0 +1,48 @@
+{
+    "intention": "Ethnic food lover, shopping for ingredients for a specific cuisine. The customer has a predetermined list of exotic spices, vegetables, meats, and grains. The customer values quality over price and prefers fresh, authentic items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 0,
+        "meat": 3,
+        "fruit": 0,
+        "seasoning": 4,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 6,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Lamb Chops",
+        "Salt",
+        "Black Pepper",
+        "Curry Powder",
+        "Chili Powder",
+        "Luxury Butter",
+        "Tomatoes",
+        "Onions",
+        "Garlic",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Potatoes",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Beef",
+        "Seasoned Lamb Chops",
+        "Garlic Powder",
+        "Onion Powder",
+        "Paprika",
+        "Organic Milk",
+        "Parmesan Cheese",
+        "Cucumbers",
+        "Carrots",
+        "Sweet Potatoes",
+        "Luxury Champagne",
+        "High-end Matcha Latte"
+    ]
+}

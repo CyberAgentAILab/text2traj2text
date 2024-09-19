@@ -1,0 +1,42 @@
+{
+    "intention": "Health-conscious customer who prefers organic and locally sourced produce. The customer usually arrives with a predetermined list of purchases, prioritizing fresh fruits and vegetables, dairy, and grains while avoiding meat and processed foods. The customer is willing to pay a premium for high-quality items and prefers fresh, unprocessed goods. The customer usually buys a small number of items per visit.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 1,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 3,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Premium Mango",
+        "Salt",
+        "Organic Milk",
+        "Luxury Butter",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Apples",
+        "Mixed Berries",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Probiotic Yogurt",
+        "Tomatoes",
+        "Cucumbers"
+    ]
+}

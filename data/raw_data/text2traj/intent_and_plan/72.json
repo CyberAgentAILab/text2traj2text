@@ -1,0 +1,49 @@
+{
+    "intention": "A customer with a sweet tooth who enjoys baking and dessert-making. The customer usually explores and decides while shopping, showing a preference for baking supplies such as sugar, chocolate, and fruits. The customer leans towards affordable, lower-quality products and often buys ready-made dessert mixes.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 2,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 3,
+        "vegetable": 0,
+        "drink": 4
+    },
+    "inclined_to_purchase": [
+        "Storage Containers",
+        "Discount Apples",
+        "Discount Oranges",
+        "Discounted Bananas",
+        "Cinnamon",
+        "Vanilla Extract",
+        "Discounted Yogurt",
+        "Discounted Cream Cheese",
+        "Discounted Chocolate Bar",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Discounted Orange Juice",
+        "Reasonable Lemonade",
+        "Discounted Coffee",
+        "Reasonable Fruit Punch"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Paper Towels",
+        "Dish Towels",
+        "Sponges",
+        "Mixed Berries",
+        "Pre-cut Watermelon",
+        "Pumpkin Spice",
+        "Discounted Sour Cream",
+        "Mixed Fruit Snacks",
+        "Popcorn Seasoning",
+        "Coca-Cola",
+        "Mixed Fruit Smoothie",
+        "Seasoned Hot Chocolate"
+    ]
+}

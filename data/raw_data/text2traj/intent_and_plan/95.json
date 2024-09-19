@@ -1,0 +1,48 @@
+{
+    "intention": "Weekend shopper, focusing on items for a weekend family meal. The customer usually purchases meats, vegetables, and drinks. The customer shops with an item list, ensuring the customer has all the ingredients the customer needs. The customer prioritizes quality over price, often buying premium cuts of meat and fresh produce. The customer enjoys cooking big family meals.",
+    "num_item_to_by": 20,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "meat": 6,
+        "vegetable": 5,
+        "drink": 4,
+        "seasoning": 3,
+        "fruit": 2
+    },
+    "inclined_to_purchase": [
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Premium Lamb Chops",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Potatoes",
+        "Onions",
+        "Luxury Champagne",
+        "High-end Green Tea",
+        "High-end Matcha Latte",
+        "Mixed Fruit Smoothie",
+        "Salt",
+        "Black Pepper",
+        "Garlic Powder",
+        "Luxury Apples",
+        "Premium Mango"
+    ],
+    "show_interest": [
+        "Beef",
+        "Mixed Pork Cuts",
+        "Seasoned Turkey",
+        "Tomatoes",
+        "Cucumbers",
+        "Carrots",
+        "Cabbage",
+        "Coca-Cola",
+        "Seasoned Iced Tea",
+        "Mixed Berry Juice",
+        "Onion Powder",
+        "Paprika",
+        "Mixed Berries"
+    ]
+}

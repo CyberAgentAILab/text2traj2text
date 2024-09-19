@@ -1,0 +1,20 @@
+seed: 0
+task_name: "super-market"
+time_stamp: ${now:%Y-%m-%d-%H-%M-%S}
+model:
+  name: "meta-llama/Llama-2-7b-chat-hf"
+  temperature: 0.0
+quantization:
+  is_quantized: true
+  use_4bit: true
+  bnb_4bit_quant_type: "fp4"
+  bnb_4bit_compute_dtype: "float16"
+  use_nested_quant: false
+num_examples: 4
+batch_size: 8
+huggingface_id: ""
+logdir: "logdir"
+
+hydra:
+  run:
+    dir: outputs/${model.name}_${num_examples}examples/seed${seed}_${time_stamp}

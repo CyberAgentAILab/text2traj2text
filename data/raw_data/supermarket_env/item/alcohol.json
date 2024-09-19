@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "name": "Whiskey",
+            "price": "expensive",
+            "quality": "high",
+            "amount": "small",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "premium whiskey"
+        },
+        {
+            "name": "Discount Vodka",
+            "price": "budget-friendly",
+            "quality": "standard",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": true,
+            "discount_rate": 15.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "great value for money"
+        },
+        {
+            "name": "Luxury Champagne",
+            "price": "expensive",
+            "quality": "high",
+            "amount": "small",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "luxury champagne for special occasions"
+        },
+        {
+            "name": "Classic Rum",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "classic rum for cocktails"
+        },
+        {
+            "name": "Gin",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "refreshing gin for mixed drinks"
+        },
+        {
+            "name": "Tequila",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "authentic tequila for shots"
+        },
+        {
+            "name": "Craft Beer",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "locally brewed craft beer"
+        },
+        {
+            "name": "Red Wine",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "rich and full-bodied red wine"
+        },
+        {
+            "name": "White Wine",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "crisp and refreshing white wine"
+        },
+        {
+            "name": "Sparkling Wine",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "bubbly sparkling wine for celebrations"
+        },
+        {
+            "name": "Cognac",
+            "price": "expensive",
+            "quality": "high",
+            "amount": "small",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "premium cognac for sipping"
+        },
+        {
+            "name": "Liqueur",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": false,
+            "is_precut": false,
+            "special_feature": "sweet and flavorful liqueur"
+        },
+        {
+            "name": "Vodka",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": true,
+            "is_precut": false,
+            "special_feature": "smooth and clean vodka"
+        },
+        {
+            "name": "Rum",
+            "price": "average-price",
+            "quality": "normal",
+            "amount": "average",
+            "daysBeforeExpiration": 0,
+            "is_discounted": false,
+            "discount_rate": 0.0,
+            "is_seasoned": true,
+            "is_precut": false,
+            "special_feature": "spiced and aromatic rum"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "intention": "Busy working customer focusing on convenience and quick meals. The customer usually purchases readymade meals, packaged salads, and microwaveable food items. The customer does not have a fixed shopping list, often making decisions based on what catches their eye. The customer prioritizes convenience over price or quality, often shopping for items that save them time in the kitchen. The customer does not usually cook a specific dish, preferring to rely on ready-to-eat meals.",
+    "num_item_to_by": 8,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 0,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 3,
+        "vegetable": 1,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Paper Towels",
+        "Pre-cut Watermelon",
+        "Discounted Yogurt",
+        "Potato Chips",
+        "Discounted Popcorn",
+        "Cheese Crackers",
+        "Mixed Salad",
+        "Coca-Cola"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Trash Bags",
+        "Mixed Fruit Salad",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Discounted Potato Chips",
+        "Cheese Puffs",
+        "Seasoned Broccoli",
+        "Mixed Stir-Fry Vegetables",
+        "Seasoned Cauliflower",
+        "Discounted Orange Juice",
+        "Discounted Coffee"
+    ]
+}

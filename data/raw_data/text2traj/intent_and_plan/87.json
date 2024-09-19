@@ -1,0 +1,34 @@
+{
+    "intention": "The customer likes baking, focusing on purchasing baking ingredients and supplies. The customer usually purchases flour, sugar, eggs, and baking tools. The customer shops with a specific recipe in mind, ensuring the customer has all the necessary ingredients. The customer prioritizes quality over price, often buying premium baking ingredients.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 2,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 0,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Luxury Apples",
+        "Cinnamon",
+        "Vanilla Extract",
+        "Luxury Butter",
+        "Organic Milk"
+    ],
+    "show_interest": [
+        "Dish Towels",
+        "Dish Rack",
+        "Storage Containers",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Pumpkin Spice",
+        "Luxury Ice Cream"
+    ]
+}

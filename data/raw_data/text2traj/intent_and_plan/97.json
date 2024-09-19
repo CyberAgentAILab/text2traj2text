@@ -1,0 +1,50 @@
+{
+    "intention": "Sustainable shopper, focusing on eco-friendly items. The customer usually purchases items with minimal packaging, organic produce, and eco-friendly cleaning products. The customer shops with a predetermined list, ensuring the customer sticks to their eco-conscious lifestyle. The customer prioritizes sustainability over price, often paying a premium for eco-friendly items. The customer enjoys cooking simple and wholesome meals.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 2,
+        "meat": 0,
+        "fruit": 2,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 1,
+        "vegetable": 4,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Salt",
+        "Organic Milk",
+        "Trail Mix",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Mixed Stir-Fry Vegetables",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Storage Containers",
+        "Dish Towels",
+        "Premium Mango",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Luxury Butter",
+        "Probiotic Yogurt",
+        "Mixed Nuts",
+        "Mixed Fruit Snacks",
+        "Gourmet Popcorn",
+        "Tomatoes",
+        "Cucumbers",
+        "Potatoes",
+        "Mixed Fruit Smoothie",
+        "Sparkling Water",
+        "Flavored Water"
+    ]
+}

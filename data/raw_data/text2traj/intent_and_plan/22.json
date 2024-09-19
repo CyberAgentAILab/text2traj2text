@@ -1,0 +1,24 @@
+{
+    "intention": "A customer who is a tea lover. The customer usually has a list of teas to buy, focusing on quality over price. The customer often pair their tea with cookies and other sweet treats.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "drink": 2,
+        "snack": 2,
+        "dairy": 1
+    },
+    "inclined_to_purchase": [
+        "High-end Green Tea",
+        "High-end Matcha Latte",
+        "Luxury Chocolate",
+        "Gourmet Popcorn",
+        "Luxury Butter"
+    ],
+    "show_interest": [
+        "Seasoned Iced Tea",
+        "Chocolate-covered Pretzels",
+        "Organic Milk",
+        "Luxury Ice Cream",
+        "Luxury Yogurt"
+    ]
+}

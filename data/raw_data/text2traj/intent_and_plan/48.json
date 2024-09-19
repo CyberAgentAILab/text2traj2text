@@ -1,0 +1,52 @@
+{
+    "intention": "Customer with a predetermined list focusing on child-friendly items and their personal essentials. The customer aims for a balance between quality and affordability, and prefers items that are easy to prepare.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 2,
+        "meat": 2,
+        "fruit": 2,
+        "seasoning": 1,
+        "dairy": 3,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Laundry Detergent",
+        "Discounted Chicken",
+        "Mixed Pork Cuts",
+        "Discount Apples",
+        "Pre-cut Watermelon",
+        "Italian Seasoning",
+        "Mozzarella Cheese",
+        "Discounted Yogurt",
+        "Discounted Cottage Cheese",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Tomatoes",
+        "Cucumbers",
+        "Discounted Orange Juice"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Trash Bags",
+        "Seasoned Turkey",
+        "Mixed Sausages",
+        "Mixed Fruit Salad",
+        "Salt",
+        "Garlic Powder",
+        "Onion Powder",
+        "Greek Yogurt",
+        "Low-fat Milk",
+        "Cheese Crackers",
+        "Discounted Bell Peppers",
+        "Mixed Salad",
+        "Coca-Cola",
+        "Mixed Fruit Smoothie",
+        "Discounted Coffee"
+    ]
+}

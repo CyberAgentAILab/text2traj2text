@@ -1,0 +1,35 @@
+{
+    "intention": "A customer following a keto diet who avoids carbs. The customer usually has a fixed list of purchases, focusing on high-fat, low-carb items such as meat, cheese, and eggs. The customer prefers high-quality products and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items and plans to prepare a keto-friendly steak dinner.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "meat": 4,
+        "dairy": 3,
+        "seasoning": 2,
+        "vegetable": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Beef",
+        "Premium Steak",
+        "Luxury Lamb",
+        "Premium Bacon",
+        "Luxury Butter",
+        "Mozzarella Cheese",
+        "Parmesan Cheese",
+        "Salt",
+        "Black Pepper",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Premium Ground Turkey",
+        "Premium Lamb Chops",
+        "Organic Milk",
+        "Garlic Powder",
+        "Luxury Broccoli",
+        "Luxury Champagne",
+        "High-end Matcha Latte"
+    ]
+}

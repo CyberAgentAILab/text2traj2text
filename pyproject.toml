@@ -1,0 +1,61 @@
+[tool.poetry]
+name = "text2traj2text"
+version = "0.1.0"
+description = ""
+authors = ["Hikaru Asano <asano-hikaru19@g.ecc.u-tokyo.ac.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+transformers = "4.31.0"
+torch = "2.0.1"
+sentencepiece = "^0.1.99"
+hydra-core = "^1.3.2"
+datasets = "^2.15.0"
+evaluate = "^0.4.1"
+nltk = "^3.8.1"
+langchain = "^0.2.14"
+langchain-openai = "^0.1.22"
+langchain-community = "^0.2.12"
+tensorboard = "^2.15.1"
+rouge-score = "^0.1.2"
+bert-score = "^0.3.13"
+networkx = "3.2.1"
+jax = "^0.4.20"
+jaxlib = "^0.4.20"
+chex = "^0.1.84"
+accelerate = "0.21.0"
+peft = "0.4.0"
+bitsandbytes = "0.40.2"
+trl = "0.4.7"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+setuptools = "59.5.0"
+matplotlib = "^3.8.2"
+plotly = "^5.18.0"
+pytest = "^7.4.3"
+pysen = "0.10.1"
+black = "22.3.0"
+flake8 = "4.0.1"
+isort = "5.10.1"
+mypy = "0.910"
+jupyter = "^1.0.0"
+kaleido = "0.2.1"
+google-cloud-storage = "^2.13.0"
+gcsfs = "^2023.10.0"
+pygame = "^2.5.2"
+coverage = "^7.6.1"
+
+[tool.pysen.lint]
+enable_black = true
+enable_flake8 = true
+enable_isort = true
+enable_mypy = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

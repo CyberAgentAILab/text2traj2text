@@ -1,0 +1,40 @@
+{
+    "intention": "Snack lover, focusing on a variety of snacks. The customer usually purchases chips, candies, and soda, often influenced by new flavors or brands. The customer shops without a predetermined list, making decisions based on what snacks catch their eye. The customer prioritizes taste and variety over price or quality, often buying a range of snacks to enjoy. The customer does not usually cook a specific dish, focusing more on enjoying their snacks.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "snack": 7,
+        "drink": 5,
+        "fruit": 2,
+        "household goods": 1
+    },
+    "inclined_to_purchase": [
+        "Potato Chips",
+        "Discounted Popcorn",
+        "Cheese Crackers",
+        "Pretzels",
+        "Discounted Chocolate Bar",
+        "Discounted Potato Chips",
+        "Cheese Puffs",
+        "Coca-Cola",
+        "Discounted Orange Juice",
+        "Mixed Fruit Smoothie",
+        "Seasoned Iced Tea",
+        "Bulk Energy Drink",
+        "Mixed Berries",
+        "Mixed Fruit Salad"
+    ],
+    "show_interest": [
+        "Luxury Chocolate",
+        "Mixed Nuts",
+        "Gourmet Popcorn",
+        "Trail Mix",
+        "Chocolate-covered Pretzels",
+        "Mixed Fruit Snacks",
+        "Discounted Coffee",
+        "Reasonable Fruit Punch",
+        "Mixed Berry Juice",
+        "Flavored Water",
+        "Pre-cut Watermelon"
+    ]
+}

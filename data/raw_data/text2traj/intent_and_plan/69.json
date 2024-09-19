@@ -1,0 +1,22 @@
+{
+    "intention": "A wine enthusiast who enjoys collecting and trying different types of wines. The customer usually explores and decides while shopping, showing a preference for a variety of wines from different regions. The customer leans towards high-end items, willing to pay more for quality and rarity. The customer usually buys a small number of items per visit.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "alcohol": 4,
+        "snack": 1
+    },
+    "inclined_to_purchase": [
+        "Red Wine",
+        "White Wine",
+        "Sparkling Wine",
+        "Luxury Champagne",
+        "Luxury Chocolate"
+    ],
+    "show_interest": [
+        "Whiskey",
+        "Cognac",
+        "Gourmet Popcorn",
+        "Popcorn Maker"
+    ]
+}

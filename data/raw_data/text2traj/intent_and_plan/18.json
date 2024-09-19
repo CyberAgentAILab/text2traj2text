@@ -1,0 +1,42 @@
+{
+    "intention": "A customer who enjoys craft beers. The customer usually has a list of beers to buy, focusing on quality over price. The customer often pairs their beers with snacks, cheeses, and other foods.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 0,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 3,
+        "snack": 2,
+        "vegetable": 0,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Luxury Apples",
+        "Luxury Butter",
+        "Parmesan Cheese",
+        "Craft Beer",
+        "Luxury Chocolate",
+        "Gourmet Popcorn",
+        "Luxury Champagne"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Mozzarella Cheese",
+        "Gin",
+        "Rum",
+        "Mixed Nuts",
+        "Cheese Crackers",
+        "High-end Green Tea",
+        "High-end Matcha Latte"
+    ]
+}

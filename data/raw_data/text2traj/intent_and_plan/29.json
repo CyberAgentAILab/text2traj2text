@@ -1,0 +1,35 @@
+{
+    "intention": "Fitness enthusiast, prioritizing fresh, protein-rich, low-carb items. The customer has a predetermined list of purchases, focusing on items like lean meat, seafood, and protein supplements. The customer is willing to pay for high-end items, focusing on the quality and nutritional value of products.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "meat": 3,
+        "seafood": 3,
+        "drink": 2,
+        "vegetable": 1,
+        "seasoning": 1
+    },
+    "inclined_to_purchase": [
+        "Premium Steak",
+        "Luxury Lamb",
+        "Premium Ground Turkey",
+        "Fresh Salmon",
+        "Luxury Lobster",
+        "Fresh Tuna",
+        "High-end Green Tea",
+        "Bulk Sports Drink",
+        "Luxury Asparagus",
+        "Salt"
+    ],
+    "show_interest": [
+        "Premium Bacon",
+        "Premium Lamb Chops",
+        "Seasoned Tuna Steak",
+        "Fresh Cod",
+        "High-end Matcha Latte",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Black Pepper",
+        "Garlic Powder"
+    ]
+}

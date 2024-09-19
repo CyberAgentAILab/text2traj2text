@@ -1,0 +1,10 @@
+model_name: "gpt-4o-mini"
+temperature: 0.7
+num_generations: 100
+project_name: "experiment"
+num_paraphrase: 25
+batch_size: 8
+seed: 42
+map_type: "X"
+prm_num_samples: 400
+dwa_max_steps: 100

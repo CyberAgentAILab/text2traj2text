@@ -1,0 +1,504 @@
+{
+    "intentions": [
+        {
+            "intention": "A health-conscious shopper who is focused on buying organic products. The customer usually has a list of items to purchase, which include organic vegetables, fruits, and dairy products. The customer is a single individual and gives priority to quality over price. The customer prefers fresh and unprocessed goods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A budget-conscious customer prioritizing affordability over variety. The customer tends to focus on staple items such as grains, vegetables, and meat and will often buy in bulk when there are discounts. The customer prefers fresh, unseasoned produce, often centered around wholesome, home-cooked meals.",
+            "num_item_to_buy": 25,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "An impulsive shopper who likes to explore and discover new products. The customer doesn't stick to a specific list and is likely to buy an array of items from different categories. The customer is more attracted to pre-cut and seasoned items for ease of cooking.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A customer who follows a plant-based diet. The customer comes with a pre-determined list of purchases, usually consisting of a variety of fruits, vegetables, and plant-based proteins. The customer prefers organic and high-quality products and leans towards fresh, unprocessed items.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A busy working professional who prefers quick and easy meal solutions. The customer usually has a list of items to buy, which often includes pre-cut vegetables, pre-packaged meals, and other convenience foods. The customer prioritizes the condition of the product over its price.",
+            "num_item_to_buy": 7,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "An environmentally conscious customer who prioritizes sustainable and eco-friendly products. The customer usually comes with a predetermined list of purchases, which includes items like organic produce, fair-trade coffee, and eco-friendly cleaning products. The customer is willing to pay more for products that align with their values and prefer unprocessed goods.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer following a keto diet, focusing on high-fat, low-carb foods. The customer usually has a list of items to buy, which includes meats, dairy, and low-carb vegetables. The customer gives priority to quality over price and prefers unprocessed items. The customer might prefer keto-friendly recipes.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who prioritizes kid-friendly foods. The customer usually has a predetermined list of purchases consisting of items like cereals, fruits, vegetables, and dairy products. The customer prefers value for money, leaning towards affordable products. The customer tends to avoid pre-cut or seasoned items, preferring to prepare meals from scratch.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer who values traditional cooking. The customer usually has a list of items to buy, which includes fresh produce, meat, and dairy. The customer is often drawn to discounted items but doesn't compromise on the quality of their purchases. The customer prefer unseasoned, unprocessed foods and usually shop with a specific traditional recipe in mind.",
+            "num_item_to_buy": 18,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A fitness enthusiast who focuses on high-protein, low-carb foods. The customer usually has a predetermined list of purchases, including meats, dairy, and vegetables. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer who prioritizes price and convenience. The customer usually has a list of items to buy, which often includes instant noodles, canned goods, and other easy-to-cook items. The customer prefers discounted items and often chooses processed or pre-seasoned foods for easy cooking.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A gourmet food lover who enjoys cooking elaborate meals. The customer often explores the store without a specific list, buying unique and high-quality ingredients. The customer prefers fresh and unprocessed goods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A customer who carefully selects items. The customer usually has a list of items to buy, which excludes allergenic foods like dairy or nuts. The customer gives priority to quality over price and prefers unprocessed items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer who enjoys baking. The customer usually has a list of items to buy, which includes flour, sugar, butter, and other baking essentials. The customer gives priority to quality over price and prefers unprocessed items.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer who enjoys grilling. The customer usually has a list of items to buy, which includes meats, vegetables, and grilling sauces. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer who is a wine connoisseur. The customer usually has a list of wines to buy, focusing on quality over price. The customer often pairs their wines with cheeses, charcuterie, and other gourmet foods.",
+            "num_item_to_buy": 8,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who enjoys hosting dinner parties. The customer usually has a list of items to buy, which includes a variety of meats, vegetables, cheeses, and wines. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+            "num_item_to_buy": 25,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer following a gluten-free diet. The customer usually has a list of items to buy, which includes fruits, vegetables, meats, and gluten-free substitutes. The customer gives priority to quality over price and prefers unprocessed items.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who enjoys craft beers. The customer usually has a list of beers to buy, focusing on quality over price. The customer often pairs their beers with snacks, cheeses, and other foods.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who might enjoy camping. The customer usually has a list of items to buy, which includes canned goods, snacks, and easy-to-cook meals. The customer gives priority to convenience over price and often chooses processed or pre-packaged foods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer who is a coffee lover. The customer usually has a list of coffees to buy, focusing on quality over price. The customer often pairs their coffee with pastries and other baked goods.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who might have a picnic. The customer usually has a list of items to buy, which includes sandwiches, snacks, and drinks. The customer gives priority to convenience over price and often chooses pre-packaged foods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer who is a tea lover. The customer usually has a list of teas to buy, focusing on quality over price. The customer often pair their tea with cookies and other sweet treats.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who enjoys international cuisine. The customer usually has a list of items to buy, which includes a variety of unique ingredients from different cuisines. The customer gives priority to quality over price and prefers fresh, unprocessed items.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A customer who enjoys smoothies. The customer usually has a list of items to buy, which includes a variety of fruits, vegetables, and yogurt. The customer gives priority to freshness over price and prefers unprocessed items.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer with a health focus prioritizes organic and low-fat products, with a specific interest in fruits and vegetables over meats or seafood. The customer comes with a predetermined list, ensuring their dietary habits are strictly followed. The customer is willing to invest in high-quality products, showcasing a preference towards organic and fresh items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer mainly buys essential items. The customer's shopping list is highly predetermined, focusing on dietary needs. The customer leans towards affordable, lower-quality products, with a preference for pre-cut and ready-to-cook items. The customer mainly focuses on easy-to-cook dishes.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer focuses on maintaining a balanced diet, purchasing a wide range of items including dairy, grains, vegetables, and lean meats. The customer usually decides their purchases while shopping, exploring a variety of options. The customer is inclined towards quality and is attracted to discounts and special offers. The customer prefers natural, unprocessed goods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Budget-conscious customers prioritize cost-effectiveness and buy in bulk. The customer has a predetermined shopping list focusing on essential commodities. The customer opts for lower-quality products offering more quantity. The customer usually prepare meals that are easy and quick to make and prefer items that are pre-cut and pre-seasoned.",
+            "num_item_to_buy": 25,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Fitness enthusiast, prioritizing fresh, protein-rich, low-carb items. The customer has a predetermined list of purchases, focusing on items like lean meat, seafood, and protein supplements. The customer is willing to pay for high-end items, focusing on the quality and nutritional value of products.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "Foodie customer interested in exploring new flavors and ingredients. The customer decides their purchases while shopping, often drawn to unique and gourmet items. The customer values quality over price and prefers fresh, natural items. The customer loves to experiment with different cuisines and recipes.",
+            "num_item_to_buy": 18,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A Customer shopping on a tight budget primarily focuses on buying instant and ready-to-eat meals. The customer has a rough list of items to buy but is open to discounted products. The customer leans towards affordable, lower-quality products and looks for items that are easy to cook or ready-to-eat.",
+            "num_item_to_buy": 6,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A Customer shops for a wide range of products. The customer's shopping list is not strictly predetermined, and the customer is open to exploring new items. The customer aims for a balance between price and quality and often buys in bulk. The customer prefers fresh items and purchases a wide range of recipes.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer follows a gluten-free diet and has a predetermined list of gluten-free products, including fruits, vegetables, and grains. The customer prioritizes quality over price and prefers organic and fresh items.",
+            "num_item_to_buy": 14,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Environmentally conscious shopper, preferring locally sourced, organic products. The customer usually decides while shopping, opting for fresh produce and ethically sourced items. The customer values quality over price and is willing to pay for products that align with their values. The customer prefers natural, unprocessed goods and plans to prepare a vegetarian dish with locally sourced ingredients.",
+            "num_item_to_buy": 16,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Busy working customer is primarily focused on convenience foods and ready-to-cook meals. The customer has a predetermined list of items, focusing on saving time. The customer leans towards affordable products and prefers items that are pre-cut and easy to cook. The customer selects items based on their convenience.",
+            "num_item_to_buy": 8,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Customer prioritizing items such as cereals, dairy products, and snacks. The customer has a predetermined list focusing on children's preferences and the customer's nutritional needs. The customer aims for a balance between quality and affordability, and prefers items that are easy to prepare.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Customer is shopping for plant-based items. The customer has a predetermined list of vegan products like fruits, vegetables, grains, and dairy alternatives. The customer values quality over price and prefers organic and fresh items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Luxury shopper interested in gourmet and high-end items. The customer decides their purchases while shopping, often drawn to unique and artisanal items. The customer highly values quality over price and prefers fresh, natural items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Frugal shopper, focused on discounted items and sales. The customer has a rough list but primarily decides based on the ongoing deals. The customer leans towards affordable, lower-quality products. The customer prefers items that offer more quantity for less price.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Customer with a sweet tooth, shopping for baked goods, sweets, and dessert ingredients. The customer usually decides their purchases while shopping, drawn to items that satisfy their cravings. The customer aims for a balance between quality and price and prefers fresh bakery items.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Customer experimenting with cooking and trying new recipes. The customer doesn't have a predetermined list and decides their purchases while shopping. The customer is interested in quality and is attracted to discounts and special offers. The customer prefers fresh, natural items and plans to prepare a new recipe.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Customer who might shop for a large gathering. The customer has a predetermined list focusing on party essentials like snacks, beverages, and finger foods. The customer leans towards affordable, bulk-sized items and prefers items that are easy to serve. The customer plans to prepare a variety of party snacks.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Ethnic food lover, shopping for ingredients for a specific cuisine. The customer has a predetermined list of exotic spices, vegetables, meats, and grains. The customer values quality over price and prefers fresh, authentic items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Pet owner shopping for pet food and supplies along with their personal groceries. The customer has a predetermined list focusing on their pet's needs and the customer's personal essentials. The customer aims for a balance between quality and affordability, and prefers items that offer good value for money.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Weekend shopper, replenishing the weekly groceries. The customer has a predetermined list of items including dairy, grains, meats, and fresh produce. The customer aims for a balance between quality and affordability, and prefers fresh items.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Pescatarian customer, preferring seafood over meat and poultry. The customer has a predetermined list of seafood, fruits, vegetables, and grains. The customer prioritizes quality over price and prefers organic and fresh items.",
+            "num_item_to_buy": 13,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Customer with cooking hobby, interested in buying unique ingredients for their cooking experiments. The customer decides on their purchases while shopping, exploring various options. The customer highly values quality over price and prefers fresh, gourmet items.",
+            "num_item_to_buy": 18,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Customer with a predetermined list focusing on child-friendly items and their personal essentials. The customer aims for a balance between quality and affordability, and prefers items that are easy to prepare.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer is shopping for plant-based items. The customer has a predetermined list of plant-based products like fruits, vegetables, grains, and dairy. The customer values quality over price and prefers organic and fresh items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Health-conscious customer who prefers organic and locally sourced produce. The customer usually arrives with a predetermined list of purchases, prioritizing fresh fruits and vegetables, dairy, and grains while avoiding meat and processed foods. The customer is willing to pay a premium for high-quality items and prefers fresh, unprocessed goods. The customer usually buys a small number of items per visit.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A busy working customer who favor convenience and speed. The customer's purchasing decisions are often made in-store and the customer prefers pre-cut and seasoned products for quick meal preparations. The customer leans towards affordable, lower-quality products and often buys frozen meals, canned goods, and instant foods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer, focusing on cost-effectiveness and variety. The customer usually comes with a predetermined list of purchases, buying in bulk to meet the family's needs. The customer shows a preference for meat, dairy, and essential commodities while avoiding seafood. The customer is attracted to discounts and special offers and prefers products that are not overly processed.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer prefers to purchase plant-based items. The customer usually explores and decides while shopping, preferring vegetables, fruits, and plant-based products. The customer leans towards high-end items and is willing to pay more for quality and sustainability. The customer avoid pre-cut and seasoned products and prefer preparing their food from scratch.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A fitness enthusiast who prioritizes protein-rich foods and dietary supplements. The customer arrives with a fixed list of purchases, focusing on meat, dairy, and grains while avoiding sugary and high-fat items. The customer prefers high-quality products and is not much concerned about discounts. The customer likes to buy fresh and unprocessed items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "The customer who prefers traditional foods. The customer usually has a predetermined list of purchases, focusing on fresh produce, dairy, and essential commodities. The customer looks for discounted quality goods and prefers unprocessed items.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer who prefers affordable and easy-to-cook foods. The customer is likely to explore and decide while shopping, often opting for instant foods, frozen meals, and canned goods. The customer is attracted to discounts and special offers and is not much concerned about the quality. The customer usually buys a small number of items per visit.",
+            "num_item_to_buy": 8,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A gourmet lover who enjoys cooking elaborate meals. The customer usually arrives with a predetermined list of purchases, focusing on high-quality items such as imported cheeses, exotic fruits, and premium cuts of meat. The customer prefers fresh and unprocessed goods.",
+            "num_item_to_buy": 25,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A diet-conscious customer who follows a strict diet plan. The customer usually has a fixed list of purchases, focusing on low-calorie and sugar-free items. The customer prefers high-quality products and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items and plans to prepare low-carb meals for dinner.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A party planner preparing for a big gathering. The customer usually arrives with a predetermined list of purchases, buying in bulk to cater to a large number of guests. The customer looks for discounted quality goods and prefers a mix of fresh and pre-prepared items. The customer plans to serve a variety of dishes at the party.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A budget-conscious customer who prefers affordable items. The customer usually has a fixed list of purchases, focusing on essential commodities. The customer is attracted to discounts and special offers and prefers products that are easy to cook.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer prefers plant-based items. The customer is likely to explore and decide while shopping, showing a preference for fruits, vegetables, and plant-based items. The customer leans towards high-end items and is willing to pay more for cruelty-free and sustainable products. The customer prefers fresh, unprocessed goods.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A seafood lover who enjoys cooking fresh seafood dishes. The customer usually arrives with a fixed list of purchases, focusing on a variety of seafood items. The customer is more inclined towards quality and is willing to pay a premium for fresh, high-quality seafood.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A customer purchases gluten-free items. The customer usually explores and decides while shopping, showing a preference for fruits, vegetables, and gluten-free items. The customer leans towards high-quality products and prefers fresh, unprocessed goods. The customer usually buys a small number of items per visit.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A baker who enjoys making homemade bread and pastries. The customer usually arrives with a predetermined list of purchases, focusing on baking supplies such as flour, yeast, and chocolate. The customer prefers high-quality products and is not much concerned about discounts.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A juice enthusiast who enjoys making fresh juices at home. The customer usually explores and decides while shopping, showing a preference for a variety of fresh fruits. The customer prefers high-quality items and is willing to pay a premium for them. The customer likes to buy fresh, unprocessed items.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A pet owner who prioritizes pet foods and supplies. The customer usually arrives with a predetermined list of purchases, focusing on pet foods, toys, and grooming products. The customer looks for discounted quality goods and is not much concerned about the quality of the customer's food items.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "An eco-conscious customer who prefers environmentally friendly products. The customer usually explores and decides while shopping, showing a preference for organic produce, plant-based items, and products with minimal packaging. The customer leans towards high-end items and is willing to pay more for eco-friendly and sustainable products. The customer prefers fresh, unprocessed goods.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A coffee lover who enjoys trying different types of coffee beans. The customer usually arrives with a fixed list of purchases, focusing on a variety of coffee beans and coffee-making accessories. The customer prefers high-quality products and is willing to pay a premium for them. The customer usually buys a small number of items per visit.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A wine enthusiast who enjoys collecting and trying different types of wines. The customer usually explores and decides while shopping, showing a preference for a variety of wines from different regions. The customer leans towards high-end items, willing to pay more for quality and rarity. The customer usually buys a small number of items per visit.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "A customer following a keto diet who avoids carbs. The customer usually has a fixed list of purchases, focusing on high-fat, low-carb items such as meat, cheese, and eggs. The customer prefers high-quality products and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items and plans to prepare a keto-friendly steak dinner.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A customer on a paleo diet who avoids processed foods and grains. The customer usually arrives with a predetermined list of purchases, focusing on meat, fruits, and vegetables. The customer prefers high-quality items and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A customer with a sweet tooth who enjoys baking and dessert-making. The customer usually explores and decides while shopping, showing a preference for baking supplies such as sugar, chocolate, and fruits. The customer leans towards affordable, lower-quality products and often buys ready-made dessert mixes.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "A customer prefers fruits, vegetables, and seafood. The customer usually has a fixed list of purchases, focusing on fresh produce, fish, and olive oil. The customer prefers high-quality items and is willing to pay a premium for them.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A customer prefers dairy-free diet. The customer usually arrives with a predetermined list of purchases, focusing on plant-based milk alternatives, fruits, and vegetables. The customer looks for discounted quality goods and prefers unprocessed items.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer focusing on affordable and easy-to-cook items. The customer usually purchases instant noodles, canned food, and frozen meals. The customer tends to shop without a predetermined list, often deciding in-store. The customer does not focus much on quality but instead prioritizes affordable prices. The customer prefers ready-to-eat or easy-to-cook items and does not tend to cook a specific dish.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Health-conscious customer, focusing on fresh and organic products. The customer shows a strong preference for vegetables, fruits, and lean meats, abstaining from processed food. The customer usually shops with a predetermined list of items to ensure the customer sticks to their diet. The customer prioritizes quality over price and is willing to pay a premium for organic and fresh items. The customer prefers to buy whole ingredients and cooks from scratch.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer focusing on easy-to-digest and nutritious food items. The customer usually purchases whole grains, dairy products, and soft fruits, avoiding spicy or hard-to-digest food. The customer shops with a predetermined list, focusing on maintaining a balanced diet. The customer prioritizes quality over price, preferring to buy items that are fresh and nutritious. The customer prefers to cook simple and wholesome meals.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Busy working customer focusing on convenience and quick meals. The customer usually purchases readymade meals, packaged salads, and microwaveable food items. The customer does not have a fixed shopping list, often making decisions based on what catches their eye. The customer prioritizes convenience over price or quality, often shopping for items that save them time in the kitchen. The customer does not usually cook a specific dish, preferring to rely on ready-to-eat meals.",
+            "num_item_to_buy": 8,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "A customer focuses on bulk purchases and cost-effectiveness. Customers usually purchase large packs of staple foods, meats, and vegetables. The customer shops with a predetermined list to cater to the various needs. The customer prioritizes quantity and price over quality, often looking for discounts on bulk purchases. The customer prefers to buy whole ingredients and cook large meals.",
+            "num_item_to_buy": 25,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Fitness enthusiast, focusing on high-protein and low-carb items. The customer usually purchases lean meats, eggs, and protein shakes, avoiding sugary or high-carb foods. The customer shops with a predetermined list, ensuring the customer sticks to their diet plan. The customer prioritizes quality over price, often buying premium items that support their fitness goals. The customer prefer to cook their meals.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "A customer prefers plant-based items. The customer usually purchases fruits, vegetables, and plant-based alternatives, avoiding meat and dairy products. The customer shops with a predetermined list, ensuring the customer maintains their plant-based diet. The customer prioritizes quality over price, preferring to buy fresh and organic items. The customer like to cook their meals.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Ethnic food lover, focusing on specific cuisine items. The customer usually purchases spices, sauces, and ingredients specific to their desired cuisine, like Asian or Mexican food. The customer shops with a specific dish in mind, often deciding what to buy based on the recipe. The customer prioritizes authenticity over price, willing to pay a premium for authentic ingredients.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Gourmet food lover, focusing on premium and high-quality items. The customer usually purchases fine cheeses, gourmet chocolates, and expensive wines. The customer shops with a predetermined list, often looking for specific premium items. The customer prioritizes quality and exclusivity over price, willing to pay a premium for gourmet items.",
+            "num_item_to_buy": 7,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "Budget-conscious customer, focusing on discounted items and sales. The customer usually purchases items on sale or clearance, often buying non-perishable items in bulk. The customer shops without a predetermined list, making decisions based on the best deals available. The customer prioritizes price over quality, often buying lower-quality items to save money. The customer prefers to cook simple and affordable meals.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Pet owner, focusing on pet food and supplies. The customer usually purchases pet food, toys, and personal grocery items. The customer shops with a predetermined list, ensuring the customer remembers all pet essentials. The customer prioritizes quality over price regarding their pet's needs, often buying premium pet food and supplies.",
+            "num_item_to_buy": 13,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Party planner, focusing on snacks, drinks, and party supplies. The customer usually purchases a variety of snacks, alcoholic beverages, and party decorations. The customer shops with a predetermined list, ensuring the customer has everything the customer needs for the party. The customer prioritizes variety and quantity over quality, often buying a range of items to cater to different tastes. The customer does not usually cook a specific dish, focusing more on finger food and drinks.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "The customer likes baking, focusing on purchasing baking ingredients and supplies. The customer usually purchases flour, sugar, eggs, and baking tools. The customer shops with a specific recipe in mind, ensuring the customer has all the necessary ingredients. The customer prioritizes quality over price, often buying premium baking ingredients.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Coffee lover, focusing on coffee beans and coffee-making supplies. The customer usually purchases different kinds of coffee beans, filters, and milk. The customer shops with a predetermined list, ensuring the customer has everything the customer needs to make their perfect cup of coffee. The customer prioritizes quality over price, often buying premium coffee beans.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "A customer focusing on baby food and supplies. The customer usually purchases baby formula, diapers, and baby care products. The customer shops with a predetermined list, ensuring the customer has everything the customer needs for their baby. The customer prioritizes quality and safety over price, often buying premium baby products.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "The customer is focusing on gluten-free or dairy-free items. The customer usually purchases alternative products, like almond milk or gluten-free bread. The customer shops with a predetermined list. The customer prioritizes safety and quality over price, often buying specialty items.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Bulk buyer, focusing on large quantities of a specific item. The customer usually purchases large quantities of a single item, like rice or canned food, for storage or distribution. The customer shops with a predetermined list, focusing on the specific items the customer needs in bulk. The customer prioritizes price over quality, often looking for discounts on bulk purchases. The customer focuses more on stockpiling items.",
+            "num_item_to_buy": 30,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Impulse buyer, focusing on items that catch their eye. The customer usually purchases a variety of items, often influenced by special offers, attractive packaging, or new products. The customer shops without a predetermined list, making spontaneous decisions based on what the customer sees in the store. The customer does not prioritize price or quality, often making purchases based on impulse. The customer enjoys the variety of items the customer bought on a whim.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "5"
+        },
+        {
+            "intention": "Seasonal shopper, focusing on items that are in season. The customer usually purchases fresh fruits and vegetables that are in season, along with seasonal items like holiday decorations or summer barbecue supplies. The customer shops with a general idea of what the customer wants, often adjusting their list based on what is currently in season. The customer prioritizes freshness and quality over price, often buying premium seasonal items. The customer enjoys cooking seasonal dishes.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Diet follower, focusing on items that fit their specific diet, like keto or paleo. The customer usually purchases items that fit their diet, like high-fat foods for a keto diet or unprocessed foods for a paleo diet. The customer shops with a predetermined list, ensuring the customer sticks to their diet. The customer prioritizes diet-compatibility over price, often buying specialty items that fit their diet. The customer enjoys cooking diet-specific meals, usually preparing keto-friendly or paleo-friendly meals.",
+            "num_item_to_buy": 10,
+            "purchase_consideration": "3"
+        },
+        {
+            "intention": "Weekend shopper, focusing on items for a weekend family meal. The customer usually purchases meats, vegetables, and drinks. The customer shops with an item list, ensuring the customer has all the ingredients the customer needs. The customer prioritizes quality over price, often buying premium cuts of meat and fresh produce. The customer enjoys cooking big family meals.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Gift buyer, focusing on items to give as gifts. The customer usually purchases chocolates, wines, and gourmet items to give as gifts. The customer shops with a predetermined list, often looking for specific items that make good gifts. The customer prioritizes quality and presentation over price, often buying premium items that are packaged nicely. The customer does not usually cook a specific dish, focusing more on selecting items to give as gifts.",
+            "num_item_to_buy": 5,
+            "purchase_consideration": "1"
+        },
+        {
+            "intention": "Sustainable shopper, focusing on eco-friendly items. The customer usually purchases items with minimal packaging, organic produce, and eco-friendly cleaning products. The customer shops with a predetermined list, ensuring the customer sticks to their eco-conscious lifestyle. The customer prioritizes sustainability over price, often paying a premium for eco-friendly items. The customer enjoys cooking simple and wholesome meals.",
+            "num_item_to_buy": 12,
+            "purchase_consideration": "4"
+        },
+        {
+            "intention": "Meal prepper, focusing on items for a week's worth of meals. The customer usually purchases a variety of meats, vegetables, and grains to prepare meals for the upcoming week. The customer shop with a specific meal plan in mind, ensuring the customer have all the ingredients the customer needs. The customer prioritizes efficiency and quality over price, often buying items in bulk that can be used in multiple meals. The customer enjoys meal prepping, often preparing a variety of dishes.",
+            "num_item_to_buy": 20,
+            "purchase_consideration": "2"
+        },
+        {
+            "intention": "Snack lover, focusing on a variety of snacks. The customer usually purchases chips, candies, and soda, often influenced by new flavors or brands. The customer shops without a predetermined list, making decisions based on what snacks catch their eye. The customer prioritizes taste and variety over price or quality, often buying a range of snacks to enjoy. The customer does not usually cook a specific dish, focusing more on enjoying their snacks.",
+            "num_item_to_buy": 15,
+            "purchase_consideration": "5"
+        }
+    ]
+}

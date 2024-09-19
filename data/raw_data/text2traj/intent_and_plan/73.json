@@ -1,0 +1,42 @@
+{
+    "intention": "A customer prefers fruits, vegetables, and seafood. The customer usually has a fixed list of purchases, focusing on fresh produce, fish, and olive oil. The customer prefers high-quality items and is willing to pay a premium for them.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 3,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Salt",
+        "Luxury Butter",
+        "Fresh Salmon",
+        "Fresh Cod",
+        "Fresh Tuna",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Apples",
+        "Oranges",
+        "Oregano",
+        "Organic Milk",
+        "Luxury Lobster",
+        "Luxury Caviar",
+        "Tomatoes",
+        "Luxury Champagne",
+        "Mixed Fruit Smoothie"
+    ]
+}

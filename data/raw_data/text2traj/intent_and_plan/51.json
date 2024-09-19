@@ -1,0 +1,52 @@
+{
+    "intention": "A busy working customer who favor convenience and speed. The customer's purchasing decisions are often made in-store and the customer prefers pre-cut and seasoned products for quick meal preparations. The customer leans towards affordable, lower-quality products and often buys frozen meals, canned goods, and instant foods.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 2,
+        "meat": 2,
+        "fruit": 1,
+        "seasoning": 2,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 3,
+        "vegetable": 2,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Dish Soap",
+        "Discounted Chicken",
+        "Seasoned Chicken Wings",
+        "Discount Apples",
+        "Salt",
+        "Italian Seasoning",
+        "Mozzarella Cheese",
+        "Discounted Yogurt",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Discounted Trail Mix",
+        "Seasoned Broccoli",
+        "Discounted Bell Peppers",
+        "Discounted Orange Juice"
+    ],
+    "show_interest": [
+        "Laundry Detergent",
+        "Trash Bags",
+        "Mixed Pork Cuts",
+        "Discounted Ground Beef",
+        "Pre-cut Watermelon",
+        "Mixed Fruit Salad",
+        "Discounted Bananas",
+        "Garlic Powder",
+        "Onion Powder",
+        "Discounted Cottage Cheese",
+        "Potato Chips",
+        "Cheese Crackers",
+        "Discounted Spinach",
+        "Reasonable Lemonade",
+        "Discounted Coffee",
+        "Reasonable Fruit Punch"
+    ]
+}

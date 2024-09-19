@@ -1,0 +1,35 @@
+{
+    "intention": "A baker who enjoys making homemade bread and pastries. The customer usually arrives with a predetermined list of purchases, focusing on baking supplies such as flour, yeast, and chocolate. The customer prefers high-quality products and is not much concerned about discounts.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 2,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 1,
+        "vegetable": 1,
+        "drink": 2
+    },
+    "inclined_to_purchase": [
+        "Luxury Apples",
+        "Cinnamon",
+        "Vanilla Extract",
+        "Luxury Butter",
+        "Organic Milk",
+        "Luxury Chocolate",
+        "Luxury Asparagus",
+        "Luxury Champagne",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Towels",
+        "Salt",
+        "Mozzarella Cheese",
+        "Luxury Mushrooms",
+        "High-end Matcha Latte"
+    ]
+}

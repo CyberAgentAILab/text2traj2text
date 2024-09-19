@@ -1,0 +1,50 @@
+{
+    "intention": "A customer prefers plant-based items. The customer usually purchases fruits, vegetables, and plant-based alternatives, avoiding meat and dairy products. The customer shops with a predetermined list, ensuring the customer maintains their plant-based diet. The customer prioritizes quality over price, preferring to buy fresh and organic items. The customer like to cook their meals.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 2,
+        "meat": 0,
+        "fruit": 4,
+        "seasoning": 2,
+        "dairy": 0,
+        "seafood": 0,
+        "alcohol": 1,
+        "snack": 2,
+        "vegetable": 4,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Dish Soap",
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Salt",
+        "Black Pepper",
+        "Whiskey",
+        "Luxury Chocolate",
+        "Trail Mix",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes"
+    ],
+    "show_interest": [
+        "Laundry Detergent",
+        "Trash Bags",
+        "Apples",
+        "Mixed Berries",
+        "Mixed Citrus Fruits",
+        "Garlic Powder",
+        "Onion Powder",
+        "Luxury Champagne",
+        "Cognac",
+        "Gourmet Popcorn",
+        "Mixed Fruit Snacks",
+        "Cucumbers",
+        "Potatoes",
+        "Onions"
+    ]
+}

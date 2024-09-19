@@ -1,0 +1,28 @@
+{
+    "intentions": [
+        {
+            "intention": "A customer is a first-year working graduate from a rural area, newly graduated and working in Tokyo. Since they do not have much time, they often buy mainly prepared foods. Their shopping style is only to buy prepared foods on all weekdays, and weekends, they shop mainly for vegetables to do their best to cook for themselves."
+        },
+        {
+            "intention": "Newly married couple customer. They both want to enjoy cooking, so they look at and buy from a wide range of genres. They decide to a certain extent which days are fish-centered, meat-centered, and so on. If the main focus is fish, they buy more vegetables, and if the main focus is meat, they buy wine and other items together. Since they both work, they do not compromise on price."
+        },
+        {
+            "intention": "A customer is a veteran businessman in the industry. Their purchasing pattern is almost fixed. They are happiest when they stop by the supermarket on their way home and buy beer, wine, or other alcoholic beverages, along with prepared dishes and snacks that go with those alcoholic beverages, and enjoy them with their wife's cooking."
+        },
+        {
+            "intention": "A customer is a wealthy man who lives alone in a high-rise condo. They do not use supermarkets often as they use a delivery service. Only when there is a party at the lounge on the weekend, they often buy high-priced, good quality liquor in bulk at the supermarket."
+        },
+        {
+            "intention": "An elderly customer who prefers Japanese food and is health-conscious. They often buy fresh vegetables, fish, seasonings, and tea. With Japanese recipes in mind, they often shop by examining products without compromising the quality of the items they purchase."
+        },
+        {
+            "intention": "A customer is a businessman who prioritizes price and convenience. They usually eat out and only buy items that can be easily prepared, such as beer and ready meals. They shop without a predetermined list and prefer new products."
+        },
+        {
+            "intention": "A customer is an elementary school student who lives near a supermarket. They often buy snacks, juice, and ice cream. Because they buy with their allowance, they prioritize price and often choose products that contain a large amount of food and are cost-effective."
+        },
+        {
+            "intention": "A couple with growing children. They often shop for fresh vegetables, meat, fish, and dairy products with Japanese home-cooking recipes in mind. Because of their children's voracious appetites, they prioritize price over quality and compare various products before deciding. The couple also buys wine and beer for their evening meals."
+        }
+    ]
+}

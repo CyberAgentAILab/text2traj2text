@@ -1,0 +1,47 @@
+{
+    "intention": "Luxury shopper interested in gourmet and high-end items. The customer decides their purchases while shopping, often drawn to unique and artisanal items. The customer highly values quality over price and prefers fresh, natural items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "meat": 2,
+        "fruit": 1,
+        "seasoning": 2,
+        "dairy": 2,
+        "seafood": 2,
+        "alcohol": 2,
+        "vegetable": 2,
+        "drink": 2
+    },
+    "inclined_to_purchase": [
+        "Luxury Lamb",
+        "Premium Steak",
+        "Luxury Apples",
+        "Black Pepper",
+        "Italian Seasoning",
+        "Luxury Butter",
+        "Luxury Ice Cream",
+        "Luxury Lobster",
+        "Luxury Caviar",
+        "Whiskey",
+        "Luxury Champagne",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Champagne",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Curry Powder",
+        "Rosemary",
+        "Organic Milk",
+        "Luxury Yogurt",
+        "Luxury King Crab",
+        "Cognac",
+        "Luxury Broccoli",
+        "High-end Matcha Latte"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "intention": "Bulk buyer, focusing on large quantities of a specific item. The customer usually purchases large quantities of a single item, like rice or canned food, for storage or distribution. The customer shops with a predetermined list, focusing on the specific items the customer needs in bulk. The customer prioritizes price over quality, often looking for discounts on bulk purchases. The customer focuses more on stockpiling items.",
+    "num_item_to_by": 30,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 10,
+        "meat": 0,
+        "fruit": 0,
+        "seasoning": 0,
+        "dairy": 0,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 0,
+        "drink": 20
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Bath Towels",
+        "Paper Towels",
+        "Dish Towels",
+        "Sponges",
+        "Broom",
+        "Mop",
+        "Garbage Can",
+        "Discounted Orange Juice",
+        "Bulk Energy Drink",
+        "Discounted Coffee",
+        "Bulk Sports Drink"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Air Freshener",
+        "Glass Cleaner",
+        "Dustpan and Brush",
+        "Dish Rack",
+        "Storage Containers",
+        "Coca-Cola",
+        "Reasonable Lemonade",
+        "Mixed Fruit Smoothie",
+        "Sparkling Water",
+        "Reasonable Fruit Punch",
+        "Mixed Berry Juice",
+        "Flavored Water"
+    ]
+}

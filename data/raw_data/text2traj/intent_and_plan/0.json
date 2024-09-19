@@ -1,0 +1,52 @@
+{
+    "intention": "A health-conscious shopper who is focused on buying organic products. The customer usually has a list of items to purchase, which include organic vegetables, fruits, and dairy products. The customer gives priority to quality over price. The customer prefers fresh and unprocessed goods.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 4,
+        "seasoning": 1,
+        "dairy": 3,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 5,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Salt",
+        "Organic Milk",
+        "Luxury Butter",
+        "Luxury Yogurt",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes",
+        "Cucumbers",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Apples",
+        "Oranges",
+        "Mixed Berries",
+        "Black Pepper",
+        "Garlic Powder",
+        "Probiotic Yogurt",
+        "Greek Yogurt",
+        "Carrots",
+        "Potatoes",
+        "Onions",
+        "Sweet Potatoes",
+        "Luxury Champagne",
+        "High-end Matcha Latte"
+    ]
+}

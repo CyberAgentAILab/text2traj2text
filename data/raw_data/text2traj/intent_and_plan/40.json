@@ -1,0 +1,51 @@
+{
+    "intention": "Customer with a sweet tooth, shopping for baked goods, sweets, and dessert ingredients. The customer usually decides their purchases while shopping, drawn to items that satisfy their cravings. The customer aims for a balance between quality and price and prefers fresh bakery items.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 2,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 0,
+        "drink": 3
+    },
+    "inclined_to_purchase": [
+        "Mixed Berries",
+        "Cinnamon",
+        "Luxury Butter",
+        "Luxury Ice Cream",
+        "Luxury Chocolate",
+        "Discounted Chocolate Bar",
+        "Coca-Cola",
+        "Mixed Fruit Smoothie",
+        "Seasoned Hot Chocolate"
+    ],
+    "show_interest": [
+        "Apples",
+        "Oranges",
+        "Discount Apples",
+        "Discount Oranges",
+        "Luxury Apples",
+        "Pre-cut Watermelon",
+        "Discounted Bananas",
+        "Premium Mango",
+        "Mixed Fruit Salad",
+        "Discounted Grapes",
+        "Organic Kiwi",
+        "Mixed Citrus Fruits",
+        "Discounted Pineapple",
+        "Premium Papaya",
+        "Vanilla Extract",
+        "Pumpkin Spice",
+        "Mozzarella Cheese",
+        "Discounted Yogurt",
+        "Chocolate-covered Pretzels",
+        "Discounted Orange Juice",
+        "Discounted Coffee"
+    ]
+}

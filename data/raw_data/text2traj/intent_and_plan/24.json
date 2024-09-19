@@ -1,0 +1,35 @@
+{
+    "intention": "A customer who enjoys smoothies. The customer usually has a list of items to buy, which includes a variety of fruits, vegetables, and yogurt. The customer gives priority to freshness over price and prefers unprocessed items.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "fruit": 3,
+        "vegetable": 3,
+        "dairy": 2,
+        "seasoning": 1,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Apples",
+        "Oranges",
+        "Mixed Berries",
+        "Tomatoes",
+        "Cucumbers",
+        "Luxury Asparagus",
+        "Organic Milk",
+        "Greek Yogurt",
+        "Cinnamon",
+        "Mixed Fruit Smoothie"
+    ],
+    "show_interest": [
+        "Luxury Apples",
+        "Premium Mango",
+        "Carrots",
+        "Potatoes",
+        "Probiotic Yogurt",
+        "Vanilla Extract",
+        "Pumpkin Spice",
+        "Mixed Berry Juice",
+        "Discounted Orange Juice"
+    ]
+}

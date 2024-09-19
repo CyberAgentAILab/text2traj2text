@@ -1,0 +1,44 @@
+{
+    "intention": "A customer is shopping for plant-based items. The customer has a predetermined list of plant-based products like fruits, vegetables, grains, and dairy. The customer values quality over price and prefers organic and fresh items.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 0,
+        "meat": 0,
+        "fruit": 2,
+        "seasoning": 2,
+        "dairy": 3,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 1,
+        "vegetable": 4,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Salt",
+        "Italian Seasoning",
+        "Mozzarella Cheese",
+        "Organic Milk",
+        "Luxury Butter",
+        "Luxury Chocolate",
+        "Tomatoes",
+        "Cucumbers",
+        "Luxury Asparagus",
+        "Luxury Mushrooms"
+    ],
+    "show_interest": [
+        "Premium Mango",
+        "Garlic Powder",
+        "Onion Powder",
+        "Greek Yogurt",
+        "Probiotic Yogurt",
+        "Mixed Nuts",
+        "Trail Mix",
+        "Mixed Fruit Snacks",
+        "Carrots",
+        "Potatoes",
+        "Onions"
+    ]
+}

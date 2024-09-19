@@ -1,0 +1,24 @@
+{
+    "intention": "A customer who is a coffee lover. The customer usually has a list of coffees to buy, focusing on quality over price. The customer often pairs their coffee with pastries and other baked goods.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "drink": 2,
+        "snack": 2,
+        "dairy": 1
+    },
+    "inclined_to_purchase": [
+        "Discounted Coffee",
+        "High-end Matcha Latte",
+        "Luxury Chocolate",
+        "Gourmet Popcorn",
+        "Luxury Butter"
+    ],
+    "show_interest": [
+        "High-end Green Tea",
+        "Cheese Crackers",
+        "Organic Milk",
+        "Luxury Ice Cream",
+        "Luxury Yogurt"
+    ]
+}

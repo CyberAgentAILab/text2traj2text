@@ -1,0 +1,17 @@
+seed: 0
+task_name: "super-market"
+time_stamp: ${now:%Y-%m-%d-%H-%M-%S}
+train:
+  model_name: "google-t5/t5-small"
+  batch_size: 8 
+  epoch: 5
+  lr: 5.6e-5
+  logging_steps: 5
+dataset:
+  validation_size: 0.2
+  num_paraphrase: 8
+logdir: "logdir"
+
+hydra:
+  run:
+    dir: outputs/${train.model_name}_${dataset.num_paraphrase}paraphrase/seed${seed}_${time_stamp}

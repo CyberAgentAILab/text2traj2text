@@ -1,0 +1,5 @@
+seed: 42
+dataset_name: text2traj
+test_size: 0.2
+stay_duration_threshold: 4
+human_stay_duration_threshold: 10

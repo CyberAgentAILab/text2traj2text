@@ -1,0 +1,46 @@
+{
+    "intention": "A busy working professional who prefers quick and easy meal solutions. The customer usually has a list of items to buy, which often includes pre-cut vegetables, pre-packaged meals, and other convenience foods. The customer prioritizes the condition of the product over its price.",
+    "num_item_to_by": 7,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 0,
+        "seasoning": 0,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 1,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Mixed Pork Cuts",
+        "Mozzarella Cheese",
+        "Potato Chips",
+        "Cheese Crackers",
+        "Seasoned Broccoli",
+        "Coca-Cola"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Mixed Sausages",
+        "Mixed Ground Meat",
+        "Mixed Ribs",
+        "Mixed Chicken Cuts",
+        "Discounted Yogurt",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Discounted Popcorn",
+        "Mixed Salad",
+        "Seasoned Cauliflower",
+        "Discounted Orange Juice",
+        "Mixed Fruit Smoothie",
+        "Bulk Energy Drink"
+    ]
+}

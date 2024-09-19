@@ -1,0 +1,47 @@
+{
+    "intention": "An environmentally conscious customer who prioritizes sustainable and eco-friendly products. The customer usually comes with a predetermined list of purchases, which includes items like organic produce, fair-trade coffee, and eco-friendly cleaning products. The customer is willing to pay more for products that align with their values and prefer unprocessed goods.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 3,
+        "meat": 0,
+        "fruit": 2,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 1,
+        "vegetable": 3,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Dish Soap",
+        "Laundry Detergent",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Salt",
+        "Organic Milk",
+        "Trail Mix",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Trash Bags",
+        "Paper Towels",
+        "Premium Mango",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Luxury Butter",
+        "Probiotic Yogurt",
+        "Mixed Nuts",
+        "Mixed Fruit Snacks",
+        "Tomatoes",
+        "Cucumbers",
+        "Discounted Coffee",
+        "Flavored Water"
+    ]
+}

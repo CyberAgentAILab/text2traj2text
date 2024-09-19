@@ -1,0 +1,43 @@
+{
+    "intention": "A customer mainly buys essential items. The customer's shopping list is highly predetermined, focusing on dietary needs. The customer leans towards affordable, lower-quality products, with a preference for pre-cut and ready-to-cook items. The customer mainly focuses on easy-to-cook dishes.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 1,
+        "dairy": 1,
+        "vegetable": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Discounted Chicken",
+        "Discount Apples",
+        "Discounted Yogurt",
+        "Discounted Bell Peppers"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Mixed Pork Cuts",
+        "Discounted Ground Beef",
+        "Mixed Sausages",
+        "Discounted Pork Chops",
+        "Mixed Ground Meat",
+        "Discounted Chicken Drumsticks",
+        "Mixed Ribs",
+        "Discounted Ground Chicken",
+        "Mixed Chicken Cuts",
+        "Pre-cut Watermelon",
+        "Mixed Fruit Salad",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Reasonable Zucchini",
+        "Discounted Spinach",
+        "Seasoned Broccoli",
+        "Seasoned Cauliflower"
+    ]
+}

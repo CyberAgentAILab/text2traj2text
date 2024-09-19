@@ -1,0 +1,43 @@
+{
+    "intention": "A customer who enjoys baking. The customer usually has a list of items to buy, which includes flour, sugar, butter, and other baking essentials. The customer gives priority to quality over price and prefers unprocessed items.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 2,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 2,
+        "dairy": 3,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 1,
+        "drink": 2
+    },
+    "inclined_to_purchase": [
+        "Storage Containers",
+        "Luxury Apples",
+        "Cinnamon",
+        "Vanilla Extract",
+        "Luxury Butter",
+        "Organic Milk",
+        "Parmesan Cheese",
+        "Luxury Asparagus",
+        "High-end Green Tea",
+        "Luxury Champagne"
+    ],
+    "show_interest": [
+        "Dish Towels",
+        "Dish Rack",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya",
+        "Salt",
+        "Black Pepper",
+        "Mozzarella Cheese",
+        "Greek Yogurt",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "High-end Matcha Latte"
+    ]
+}

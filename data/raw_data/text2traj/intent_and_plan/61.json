@@ -1,0 +1,53 @@
+{
+    "intention": "A customer prefers plant-based items. The customer is likely to explore and decide while shopping, showing a preference for fruits, vegetables, and plant-based items. The customer leans towards high-end items and is willing to pay more for cruelty-free and sustainable products. The customer prefers fresh, unprocessed goods.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "household goods": 2,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 2,
+        "dairy": 0,
+        "seafood": 0,
+        "alcohol": 1,
+        "snack": 2,
+        "vegetable": 4,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Italian Seasoning",
+        "Garlic Powder",
+        "Luxury Champagne",
+        "Luxury Chocolate",
+        "Mixed Nuts",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Toilet Paper",
+        "Dish Towels",
+        "Mixed Berries",
+        "Mixed Citrus Fruits",
+        "Onion Powder",
+        "Basil",
+        "Whiskey",
+        "Cognac",
+        "Trail Mix",
+        "Cucumbers",
+        "Carrots",
+        "Potatoes",
+        "Mixed Fruit Smoothie",
+        "Seasoned Iced Tea",
+        "High-end Matcha Latte",
+        "Mixed Berry Juice",
+        "Flavored Water"
+    ]
+}

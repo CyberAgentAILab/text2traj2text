@@ -1,0 +1,50 @@
+{
+    "intention": "A diet-conscious customer who follows a strict diet plan. The customer usually has a fixed list of purchases, focusing on low-calorie and sugar-free items. The customer prefers high-quality products and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items and plans to prepare low-carb meals for dinner.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 2,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 1,
+        "alcohol": 0,
+        "snack": 0,
+        "vegetable": 4,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Premium Steak",
+        "Luxury Apples",
+        "Organic Kiwi",
+        "Salt",
+        "Low-fat Cottage Cheese",
+        "Fresh Salmon",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Luxury Lamb",
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Premium Lamb Chops",
+        "Premium Mango",
+        "Black Pepper",
+        "Garlic Powder",
+        "Organic Milk",
+        "Low-fat Milk",
+        "Fresh Cod",
+        "Fresh Tuna",
+        "Fresh Halibut",
+        "Cucumbers",
+        "Carrots",
+        "Potatoes",
+        "Sparkling Water"
+    ]
+}

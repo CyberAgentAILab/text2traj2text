@@ -1,0 +1,45 @@
+{
+    "intention": "A juice enthusiast who enjoys making fresh juices at home. The customer usually explores and decides while shopping, showing a preference for a variety of fresh fruits. The customer prefers high-quality items and is willing to pay a premium for them. The customer likes to buy fresh, unprocessed items.",
+    "num_item_to_by": 15,
+    "purchase_consideration": 5,
+    "shopping_plan": {
+        "fruit": 10,
+        "vegetable": 2,
+        "drink": 1,
+        "dairy": 1,
+        "seasoning": 1
+    },
+    "inclined_to_purchase": [
+        "Apples",
+        "Oranges",
+        "Luxury Apples",
+        "Mixed Berries",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Mixed Citrus Fruits",
+        "Premium Papaya",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Mixed Fruit Smoothie",
+        "Organic Milk",
+        "Cinnamon"
+    ],
+    "show_interest": [
+        "Discount Apples",
+        "Discount Oranges",
+        "Pre-cut Watermelon",
+        "Discounted Bananas",
+        "Mixed Fruit Salad",
+        "Discounted Grapes",
+        "Discounted Pineapple",
+        "Tomatoes",
+        "Cucumbers",
+        "High-end Green Tea",
+        "Mixed Berry Juice",
+        "Luxury Butter",
+        "Luxury Ice Cream",
+        "Luxury Yogurt",
+        "Vanilla Extract",
+        "Pumpkin Spice"
+    ]
+}

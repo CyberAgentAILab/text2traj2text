@@ -1,0 +1,52 @@
+{
+    "intention": "A customer follows a gluten-free diet and has a predetermined list of gluten-free products, including fruits, vegetables, and grains. The customer prioritizes quality over price and prefers organic and fresh items.",
+    "num_item_to_by": 14,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 3,
+        "seasoning": 2,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 4,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Salt",
+        "Italian Seasoning",
+        "Organic Milk",
+        "Luxury Chocolate",
+        "Gourmet Popcorn",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Tomatoes",
+        "High-end Green Tea"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Apples",
+        "Mixed Berries",
+        "Garlic Powder",
+        "Onion Powder",
+        "Luxury Butter",
+        "Luxury Yogurt",
+        "Luxury Ice Cream",
+        "Mixed Nuts",
+        "Cucumbers",
+        "Carrots",
+        "Potatoes",
+        "Luxury Champagne",
+        "Mixed Fruit Smoothie",
+        "High-end Matcha Latte"
+    ]
+}

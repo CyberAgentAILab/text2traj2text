@@ -1,0 +1,37 @@
+{
+    "intention": "A seafood lover who enjoys cooking fresh seafood dishes. The customer usually arrives with a fixed list of purchases, focusing on a variety of seafood items. The customer is more inclined towards quality and is willing to pay a premium for fresh, high-quality seafood.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 0,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 0,
+        "seafood": 5,
+        "alcohol": 1,
+        "snack": 0,
+        "vegetable": 2,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Salt",
+        "Fresh Salmon",
+        "Luxury Lobster",
+        "Fresh Cod",
+        "Luxury Caviar",
+        "Luxury King Crab",
+        "Whiskey",
+        "Luxury Asparagus",
+        "Luxury Mushrooms"
+    ],
+    "show_interest": [
+        "Black Pepper",
+        "Garlic Powder",
+        "Mixed Seafood Platter",
+        "Fresh Tuna",
+        "Luxury Champagne",
+        "Cognac",
+        "Luxury Broccoli"
+    ]
+}

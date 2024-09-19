@@ -1,0 +1,12 @@
+seed: 0
+task_name: "super-market"
+time_stamp: ${now:%Y-%m-%d-%H-%M-%S}
+model:
+  name: "gpt-4o-mini"
+  temperature: 0.0
+num_examples: 4
+batch_size: 8
+logdir: "logdir"
+hydra:
+  run:
+    dir: outputs/${model.name}_${num_examples}examples/seed${seed}_${time_stamp}

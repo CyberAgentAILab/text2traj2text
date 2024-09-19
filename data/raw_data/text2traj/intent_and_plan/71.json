@@ -1,0 +1,35 @@
+{
+    "intention": "A customer on a paleo diet who avoids processed foods and grains. The customer usually arrives with a predetermined list of purchases, focusing on meat, fruits, and vegetables. The customer prefers high-quality items and is willing to pay a premium for them. The customer likes to buy fresh and unprocessed items.",
+    "num_item_to_by": 12,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "meat": 4,
+        "fruit": 3,
+        "vegetable": 3,
+        "seasoning": 2
+    },
+    "inclined_to_purchase": [
+        "Luxury Lamb",
+        "Premium Steak",
+        "Premium Bacon",
+        "Premium Lamb Chops",
+        "Luxury Apples",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Luxury Asparagus",
+        "Luxury Mushrooms",
+        "Luxury Broccoli",
+        "Salt",
+        "Black Pepper"
+    ],
+    "show_interest": [
+        "Beef",
+        "Mixed Chicken Cuts",
+        "Premium Ground Turkey",
+        "Apples",
+        "Oranges",
+        "Tomatoes",
+        "Cucumbers",
+        "Garlic Powder"
+    ]
+}

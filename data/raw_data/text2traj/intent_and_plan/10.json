@@ -1,0 +1,51 @@
+{
+    "intention": "A customer who prioritizes price and convenience. The customer usually has a list of items to buy, which often includes instant noodles, canned goods, and other easy-to-cook items. The customer prefers discounted items and often chooses processed or pre-seasoned foods for easy cooking.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 1,
+        "seasoning": 1,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 1,
+        "drink": 2
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Discounted Chicken",
+        "Discount Apples",
+        "Salt",
+        "Discounted Yogurt",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Discounted Bell Peppers",
+        "Discounted Orange Juice",
+        "Discounted Coffee"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Discounted Ground Beef",
+        "Discounted Pork Chops",
+        "Discounted Chicken Drumsticks",
+        "Discounted Ground Chicken",
+        "Discount Oranges",
+        "Discounted Bananas",
+        "Discounted Grapes",
+        "Discounted Pineapple",
+        "Garlic Powder",
+        "Onion Powder",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Discounted Chocolate Bar",
+        "Seasoned Broccoli",
+        "Discounted Spinach",
+        "Discounted Green Beans",
+        "Reasonable Lemonade"
+    ]
+}

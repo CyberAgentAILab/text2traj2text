@@ -1,0 +1,37 @@
+{
+    "intention": "A customer who is a wine connoisseur. The customer usually has a list of wines to buy, focusing on quality over price. The customer often pairs their wines with cheeses, charcuterie, and other gourmet foods.",
+    "num_item_to_by": 8,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "alcohol": 3,
+        "dairy": 2,
+        "meat": 1,
+        "snack": 1,
+        "fruit": 1
+    },
+    "inclined_to_purchase": [
+        "Red Wine",
+        "White Wine",
+        "Sparkling Wine",
+        "Luxury Butter",
+        "Parmesan Cheese",
+        "Premium Steak",
+        "Luxury Chocolate",
+        "Luxury Apples"
+    ],
+    "show_interest": [
+        "Luxury Champagne",
+        "Cognac",
+        "Mozzarella Cheese",
+        "Luxury Lamb",
+        "Premium Bacon",
+        "Premium Ground Turkey",
+        "Premium Lamb Chops",
+        "Gourmet Popcorn",
+        "Cheese Crackers",
+        "Mixed Nuts",
+        "Premium Mango",
+        "Organic Kiwi",
+        "Premium Papaya"
+    ]
+}

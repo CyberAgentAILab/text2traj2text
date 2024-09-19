@@ -1,0 +1,17 @@
+{
+    "intention": "A coffee lover who enjoys trying different types of coffee beans. The customer usually arrives with a fixed list of purchases, focusing on a variety of coffee beans and coffee-making accessories. The customer prefers high-quality products and is willing to pay a premium for them. The customer usually buys a small number of items per visit.",
+    "num_item_to_by": 5,
+    "purchase_consideration": 1,
+    "shopping_plan": {
+        "drink": 3,
+        "household goods": 1,
+        "snack": 1
+    },
+    "inclined_to_purchase": [
+        "Discounted Coffee",
+        "Luxury Chocolate"
+    ],
+    "show_interest": [
+        "High-end Matcha Latte"
+    ]
+}

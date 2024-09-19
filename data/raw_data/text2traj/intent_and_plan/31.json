@@ -1,0 +1,48 @@
+{
+    "intention": "A Customer shopping on a tight budget primarily focuses on buying instant and ready-to-eat meals. The customer has a rough list of items to buy but is open to discounted products. The customer leans towards affordable, lower-quality products and looks for items that are easy to cook or ready-to-eat.",
+    "num_item_to_by": 6,
+    "purchase_consideration": 4,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 0,
+        "fruit": 1,
+        "seasoning": 0,
+        "dairy": 1,
+        "seafood": 0,
+        "alcohol": 0,
+        "snack": 2,
+        "vegetable": 0,
+        "drink": 1
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Discount Apples",
+        "Discounted Yogurt",
+        "Discounted Popcorn",
+        "Discounted Potato Chips",
+        "Discounted Orange Juice"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Paper Towels",
+        "Dish Towels",
+        "Sponges",
+        "Discount Oranges",
+        "Discounted Bananas",
+        "Discounted Grapes",
+        "Discounted Pineapple",
+        "Pre-cut Watermelon",
+        "Mixed Fruit Salad",
+        "Discounted Cottage Cheese",
+        "Discounted Sour Cream",
+        "Discounted Cream Cheese",
+        "Discounted Milk",
+        "Discounted Chocolate Bar",
+        "Discounted Trail Mix",
+        "Reasonable Lemonade",
+        "Discounted Coffee",
+        "Reasonable Fruit Punch"
+    ]
+}

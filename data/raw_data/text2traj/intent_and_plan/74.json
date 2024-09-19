@@ -1,0 +1,53 @@
+{
+    "intention": "A customer prefers dairy-free diet. The customer usually arrives with a predetermined list of purchases, focusing on plant-based milk alternatives, fruits, and vegetables. The customer looks for discounted quality goods and prefers unprocessed items.",
+    "num_item_to_by": 10,
+    "purchase_consideration": 3,
+    "shopping_plan": {
+        "household goods": 1,
+        "meat": 1,
+        "fruit": 3,
+        "seasoning": 1,
+        "dairy": 0,
+        "seafood": 1,
+        "alcohol": 0,
+        "snack": 1,
+        "vegetable": 2,
+        "drink": 0
+    },
+    "inclined_to_purchase": [
+        "Toilet Paper",
+        "Discounted Chicken",
+        "Discount Apples",
+        "Discount Oranges",
+        "Discounted Bananas",
+        "Salt",
+        "Discounted Shrimp",
+        "Discounted Popcorn",
+        "Discounted Bell Peppers",
+        "Discounted Spinach"
+    ],
+    "show_interest": [
+        "Dish Soap",
+        "Laundry Detergent",
+        "Trash Bags",
+        "Discounted Ground Beef",
+        "Discounted Pork Chops",
+        "Discounted Chicken Drumsticks",
+        "Discounted Ground Chicken",
+        "Mixed Berries",
+        "Discounted Grapes",
+        "Black Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Discounted Crab Legs",
+        "Discounted Scallops",
+        "Discounted Oysters",
+        "Discounted Potato Chips",
+        "Trail Mix",
+        "Mixed Nuts",
+        "Mixed Fruit Snacks",
+        "Discounted Trail Mix",
+        "Cucumbers",
+        "Potatoes"
+    ]
+}
