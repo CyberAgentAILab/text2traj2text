@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-    <!-- <a href="https://arxiv.org/abs"><img src="https://img.shields.io/badge/arXiv-paper-orange" alt="arXiv paper"></a> -->
-    <!-- <a href="https://udonda.github.io/RALF/"><img src="https://img.shields.io/badge/Project-Page-Green" alt="Project Page"></a> -->
+    <a href="https://arxiv.org/abs/2409.12670"><img src="https://img.shields.io/badge/arXiv-paper-orange" alt="arXiv paper"></a>
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License"></a>
 </p>
 
@@ -208,11 +207,12 @@ docker exec text2traj2text python3 scripts/eval_llm.py
 
 If you find our work useful in your research, please consider citing:
 
-```bibtex
-@article{asano2024text2traj2text,
-    title={{Text2Traj2Text: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories}},
+```
+@inproceedings{asano2024text2traj2text,
+    title={{Text2Traj2Text}: Learning-by-Synthesis Framework for Contextual Captioning of Human Movement Trajectories},
     author={Hikaru Asano and Ryo Yonetani and Taiki Sekii and Hiroki Ouchi},
-    booktitle={arXiv},
-    year={2024}
+    booktitle = {Proceedings of the 17th International Natural Language Generation Conference},
+    year={2024},
+    pages={289--302},
 }
 ```
